@@ -1,8 +1,8 @@
 class NoCoauthor < Formula
   desc "Git hook that strips AI co-author trailers from commit messages"
   homepage "https://github.com/jmtrs/no-coAuthor"
-  url "https://github.com/jmtrs/no-coAuthor/archive/refs/tags/v2.4.0.tar.gz"
-  sha256 "9cae6d263442e1b14301bcd6651263070cd09b5a600a72e105726e88eb776335"
+  url "https://github.com/jmtrs/no-coAuthor/archive/refs/tags/v2.5.0.tar.gz"
+  sha256 "63710f1e6ddc20960d544e469d5ea7171809e445e58bedabdd77ac4448227b10"
   license "MIT"
 
   def install
