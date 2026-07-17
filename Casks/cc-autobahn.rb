@@ -1,6 +1,6 @@
 cask "cc-autobahn" do
-  version "0.5.0"
-  sha256 "b92846f0e1c89df1622a0ab9b2e8d5c2a41a309e04c1d03ddc037c959c2d1a1c"
+  version "0.5.1"
+  sha256 "557b9243343b60a938002a09e5926c09cf364881bbd3cee3db09b61361bd8eb4"
 
   url "https://github.com/jmtrs/cc-autobahn/releases/download/v#{version}/cc-autobahn_#{version}_universal.dmg"
   name "cc-autobahn"
