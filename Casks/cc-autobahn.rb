@@ -7,7 +7,7 @@ cask "cc-autobahn" do
   desc "Mercedes W203 amber trip-computer for Claude Code token usage"
   homepage "https://github.com/jmtrs/cc-autobahn"
 
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
 
   app "cc-autobahn.app"
 
